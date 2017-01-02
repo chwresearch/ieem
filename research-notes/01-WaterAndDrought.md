@@ -3,11 +3,15 @@ title: Water & Drought
 author: Renato Vargas
 ...
 
-## Introduction
+# Introduction
 
+Guatemala's geographic location between North and South America makes it vulnerable to the trade winds between the two hemispheres. As temperature maximums rise in magnitude and duration, yearly dry seasons become longer. Cool shifts from hemisphere to hemisphere are delayed, and populations accustomed to produce crops with rainwater find themselves poorly prepared to withstand ever longer periods of drought.
 
+With high rates of population growth and a national water regulation and enforcement vacuum, access to irrigation infrastructure is highly unequal. Staple crops, maize and black beans, are almost exclusively produced under no irrigation technologies by small farmers, and public budgets present constraints that limit public investment in both, within-farm irrigation systems, and larger hydraulic infrastructure projects. 
 
-## Problematic
+Nonetheless, public responses are aiming to aggressively increase areas under irrigation and invest more in within-farm systems over the next years, while increasing jobs and improving food security. Concerns over the limited stated budgets destined for these purposes, make this topic interesting for an economy-wide assessment of policy implications. 
+
+# Problematic
 
 Rain cycles in Guatemala are strongly influenced by the convergence between the Inter Tropical Convergence Zone (ITZC) and El Niño-Southern Oscillation (ENSO). The former is a belt of low pressure, which circles the Earth near the equator where the trade winds of the Northern and Southern Hemispheres come together. The latter is an irregularly periodical variation in winds and sea surface temperatures over the tropical eastern Pacific Ocean, affecting much of the tropics and subtropics. The presence of the warming phase of ENSO (El Niño) delays the translation of ITZC to the North, limiting rainfall and increasing the average annual temperature. Conversely, in the cooling phase of ENSO (La Niña), trade winds between Northern and Southern Hemispheres become stronger, resulting in more precipitation and a reduction of temperature (Instituto de Agricultura, Recursos Naturales y Ambiente de la Universidad Rafael Landívar [IARNA-URL], 2011).
 
@@ -30,7 +34,13 @@ In an analysis of very-high, high, and medium water catchment and hydrological r
 
 In contrast, 29% of the three categories area is already used in agricultural activities (Gordillo, 2010) placing stress in the most vulnerable areas of the country, especially dry zones.
 
-## Impacts
+One of the most important concerns is that staple crops, like maize and beans, are produced almost exclusively dependent on rain water by small farmers (Instituto Nacional de Estadística [INE] et al., 2013). This exposes the production of these crop to the risk of drought. After sugar cane and bananas, maize is one of the main products of the country in terms of volume, which is important, considering that the former are two large productions with important private irrigation infrastructure, carried out by bigger farms.
+
+Beans, which also depend entirely on rain water (INE et al., 2013) account for a relevant portion of the Guatemalan diet, and it is interesting to see how the canned variety have become increasingly used by households. This form of consumption of beans is ever more present in urban kitchens, and it might represent a cultural shift that might increase the importance of industrial food processing in the food chain. An increasing industrialization of the consumption of beans will require technical investments in its production, such as irrigation. 
+
+It is important to note the share of agricultural output used by the manufacturing industries at the national level is small for these crops. For example, in the case of maize, only 20% of all used volume had a final destination in manufacturing. This is consistent with the 80% (adjusted to extract the negative stock variation) that was consumed by households. With a strong market culture present in the country, 95% beans, 88% potatoes, 97% other roots and tubers, 99% fresh culinary herbs, 91% other vegetables and 67% fruits, are consumed directly by households bypassing the food manufacturing industry. It contrasts with the 99% of the supply of unprocessed rice and wheat that were used almost exclusively by the food processing industries for the production of packaged consumer versions (INE et al., 2013). 
+
+# Impacts
 
 In a series of climate scenario simulations (see Table 2), it was established that in a business as usual situation where the global population continues to grow in a constant manner, with low technological advance and modest, unequal, heterogenous, and unsustainable economic growth, the Guatemalan dry zones are expected to grow 1.6 times by 2020 (from the base year 2000), to double by 2050, and to reach 2.9 times their area, almost triple, by 2080 (Rosito, Pérez, Maas, Gándara & Gálvez, 2013).
 
@@ -57,26 +67,31 @@ Crops in dry and very dry life zones are highly vulnerable to the availability o
 
 The combination of highly degraded water catchment areas, and a deficient regulatory framework results in water stress and high vulnerability. The Government of Guatemala (GoG) has identified seven Departments that are vulnerable to water scarcity and low precipitation: Chiquimula, Jalapa, Jutiapa, El Progreso, Baja Verapaz, Quiché, and Zacapa (Ministerio de Agricultura, Ganadería y Alimentación [MAGA], 2016).
 
+In a natural events risk map developed by Gálvez, Pérez, & Pineda (2009) for Guatemala, 2.6 million people, equivalent to 22.8% of the population at the time, were at risk of experiencing at least drought in a given year. Other natural events included landslides, freezing conditions, and floods, bringing the total percentage of population under threat to 75.1%. The total area at risk of drought is estimated at 29,189 km<sup>2</sup>
+
+Gálvez and colleague's (2009) map intersections used population information from the last Census, which dates to 2002-2003. Total population at the time was 11,237,196. Recent projections place total population at 15.4 million for 2017. Population growth places greater pressures to water allocation in the face of scant regulation and enforcement.
+
+
 ## Possible Interventions
 
-In the recently developed _Gran Plan Nacional de Riego_ (Great National Irrigation Plan), the GoG has established a goal of 100,000 additional hectares of irrigation coverage in five years, with an annual increase of 20,000 hectares, starting in 2017. They foresee that this will result in an additional 50,240 full time jobs per year. To accomplish this task, they plan on rehabilitating 13 of 29 abandoned water irrigation stations, with a budget of Q3 million (about $400 thousand). The objective of the plan is to reduce food insecurity in urban and rural populations, eradicate chronic malnutrition, while generating jobs (MAGA, 2016).
+In the recently developed _Gran Plan Nacional de Riego_ (Great National Irrigation Plan), the GoG has established a goal of 100,000 additional hectares of irrigation coverage in five years, with an annual increase of 20,000 hectares, starting in 2017. They foresee that this will result in an additional 50,240 full time jobs per year. To accomplish this task, they plan on rehabilitating 13 of 29 abandoned water irrigation stations, with a budget of Q3 million (about $400 thousand). The objective of the plan is to reduce food insecurity in urban and rural populations, eradicate chronic malnutrition, while generating jobs.Total capacity for irrigation land totals 379,353 hectares, with a total of 826,806 potential beneficiaries in 983 communities (MAGA, 2016).
 
-## References
+Other complementary activities that have been identified by the GoG include the introduction of micro and mini-irrigation systems in subsistence small farms, as an increase to the private capital stock of the poor; the development of hydraulic regulation infrastructure, such as catchment plants, channels, pumping stations, and reservoirs (MAGA, 2013). There are no explicitly stated budgetary considerations and no detail of the source of public funding for these actions.
+
+# References
 
 Carrera, J.L.; Gálvez, J.; & López, E. (2013). Recursos hídricos: mucha agua, poca gestión. In Instituto de Agricultura, Recursos Naturales y Ambiente de la Universidad Rafael Landívar. (2013). _Perfil Ambiental de Guatemala 2010-2012. Vulnerabilidad local y creciente construcción de riesgo_ (p. 131-146). Guatemala: Author.
 
+Ministerio de Agricultura Ganadería y Alimentación (2013). _Política de promoción del riego 2013-2023_. Guatemala: author.
+
 Ministerio de Agricultura Ganadería y Alimentación (2016). _Gran Plan Nacional Agropecuario_. Guatemala: author.
+
+Gálvez, J.; Pérez, G.; and Pineda, P. (2009). Cambio climático: la necesidad de actuar integralmente. In Gálvez & Cleaves (Eds.), _Perfil Ambiental de Guatemala 2008-2009: las señales ambientales críticas y su relación con el desarrollo._ Guatemala: Universidad Rafael Landívar, Instituto de Agricultura, Recursos Naturales y Ambiente.
 
 Gordillo, C. (2010). _Situación actual y directrices para el manejo de las tierras forestales de muy alta, alta y media captación y regulación hidrológica de Guatemala_ (Unpublished thesis). Facultad de Ciencias Ambientales y Agrícolas, Universidad Rafael Landívar, Guatemala.
 
 Holdridge, L. R. (1967). _Life zone ecology_. San Jose, Costa Rica: Tropical Science Center.
 
+Instituto Nacional de Estadística, Banco de Guatemala, &  Instituto de Agricultura, Recursos Naturales de la Universidad Rafael Landívar (2013). Sistema de Contabilidad Ambiental y Económica de Guatemala 2001-2010, SCAE 2001-2010. Tomo I. Guatemala: Banco de Guatemala.
+
 Rosito, J.C.; Pérez, G.; Maas, R.; Gándara, A. & Gálvez, J. (2013). Bases para el seguimiento y evaluación del cambio climático en los ecosistemas de Guatemala. In Instituto de Agricultura, Recursos Naturales y Ambiente de la Universidad Rafael Landívar. (2013). _Perfil Ambiental de Guatemala 2010-2012. Vulnerabilidad local y creciente construcción de riesgo_ (p. 269-297). Guatemala: Author. 
-
-<!--
-
-## Research notes
-
-
-
--->
